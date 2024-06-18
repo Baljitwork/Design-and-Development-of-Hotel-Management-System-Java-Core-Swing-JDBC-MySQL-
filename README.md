@@ -6,6 +6,7 @@ Created and optimized relational databases, performing efficient CRUD operations
 Deployed the application on the Tomcat server, ensuring its stability and performance post-deployment, and utilized Git for version control and collaboration, following Agile methodologies for project management.
 
 
-
+<------- Important only open the Hotel-management-system.zip--------> 
+Extract and open with  Apache NetBeans or Intellije IDE (code Editor)
 
 
